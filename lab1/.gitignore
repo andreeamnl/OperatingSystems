@@ -1,1 +1,2 @@
-[Bb]in/
+# Ignore any files in /bin and /obj Folders
+**/bin/*
